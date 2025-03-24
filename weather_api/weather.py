@@ -7,7 +7,7 @@ import os
 import json
 import threading
 
-API_KEY = "96d20ebeb1689c1df6448ddf5b9d0e0e"
+API_KEY = ""
 GET_WEATHER_PATH = "http://api.openweathermap.org"
 GET_HISTORY_WEATHER_PATH = "https://history.openweathermap.org"
 
