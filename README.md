@@ -3,9 +3,9 @@
 ### NOTE: `One folder --- one test-work`
 
 ## postgresql
-PostgreSQL scripts
+PostgreSQL scripts\
 `failed`
 
 ## weather_api
-Track weather API
+Track weather API\
 `failed`
